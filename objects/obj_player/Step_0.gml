@@ -92,6 +92,7 @@ if (dead) {
 				
 				//destroy cloud
 				instance_destroy(cloud);
+				show_debug_message("curry");
             }
         }
     } 
